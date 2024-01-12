@@ -1,0 +1,19 @@
+.footer{
+    background-color: #111;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}
+
+.descripcion{
+    color: #eee;
+    font-family: sans-serif;
+}
+
+.copy{
+    color: #aaa;
+    font-family: sans-serif;
+}
